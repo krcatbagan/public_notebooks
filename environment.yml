@@ -1,0 +1,9 @@
+name: test
+dependencies:
+  - numpy
+  - scipy
+  - seaborn
+  - matplotlib
+  - ipywidgets
+  - pandas
+  
